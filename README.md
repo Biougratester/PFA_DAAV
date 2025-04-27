@@ -75,8 +75,12 @@ Tous les résultats sont exportés sous forme de graphiques professionnels et fa
     Rachid Ighram
     Étudiant en 4ᵉ année de Génie Industriel
     ENSA Agadir
+    Imad Ghazaz
+    Étudiant en 4ᵉ année de Génie Industriel
+    ENSA Agadir
 
-    Encadré par : [Nom de l'encadrant académique ou industriel]
+    Encadré par : Mme. Malika Elkyal : Encadrante a l'ecole
+                  M. Abdelilah Zeroual : Encadrant a l'entreprise
 
 📜 Remarques
 
